@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+body {
+    background-color: #e9ecef;
+}
+
+.data-text p {
+    margin: 0;
+}
+
+.data-textarea {
+    height: 20vh;
+}
+
+.vh-50 {
+    height: 50vh;
+}
+
+.logo {
+    line-height: 1.5;
+}

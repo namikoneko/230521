@@ -1,0 +1,19 @@
+<div class="bg-white px-2 rounded d-flex justify-content-between">
+
+ <h1 class="mb-0 fs-3 logo">
+ <a class="text-decoration-none" href='/230521/datas'>230521todoアプリ</a>
+ </h1>
+
+ <ul class="nav">
+
+ <li class="nav-item">
+ <a class="nav-link" href='/230521/datas'>dataへ</a>
+ </li>
+<!--
+ <li class="nav-item">
+ <a class="nav-link" href='/221225/hoge'>hogeへ</a>
+ </li>
+-->
+ </ul>
+
+</div>
